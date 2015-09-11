@@ -23,41 +23,6 @@ for (var i=0; i < romans.length; i++) {
   }
 }
 
-  // // while (number >= 1000) {
-  // //   result += "M";
-  // //   number -= 1000;
-  // // }
-  //
-  // while (number >= 500) {
-  //   result += "D";
-  //   number -= 500;
-  // }
-  //
-  // while (number >= 100) {
-  //   result += "C";
-  //   number -= 100;
-  // }
-  //
-  // while (number >= 50) {
-  //   result += "L";
-  //   number -= 50;
-  // }
-  //
-  // while (number >= 10) {
-  //   result += "X";
-  //   number -= 10;
-  // }
-  // while (number >= 5) {
-  //   result += "V";
-  //   number -= 5;
-  // }
-  //
-  // while (number >= 1) {
-  //   result += "I";
-  //   number -= 1;
-  // }
-  // result = result.replace("IIII", "IV");
-
 
 
   return result;
